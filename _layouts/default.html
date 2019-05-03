@@ -36,27 +36,29 @@
     </div>
 	
 	
-	<div class="row">
-      <div class="col-md-3"><ul class="nav navbar-nav">
-        {% assign links = site.data.navigation %}
-        {% for link in links %}
-            {% assign class = nil %}
-            {% if page.url contains link.url %}
-                {% assign class = 'active' %}
-            {% endif %}
-                <li class="{{ class }}">
-                    <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
-                </li>
-            
-        {% endfor %}
-    </ul></div>
-      <div class="col-md-9">
-	      <!-- MAIN CONTENT -->
-          <div id="main_content_wrap" class="outer">
-            <section id="main_content" class="inner">
-              {{ content }}
-            </section>
-          </div>
+	
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+	  <div class="row">
+		<div class="col-md-3">
+		  <ul class="nav navbar-nav">
+          {% assign links = site.data.navigation %}
+          {% for link in links %}
+              {% assign class = nil %}
+              {% if page.url contains link.url %}
+                  {% assign class = 'active' %}
+              {% endif %}
+                  <li class="{{ class }}">
+                      <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                  </li>            
+           {% endfor %}
+          </ul>
+		</div>
+	    <div class="col-md-9">
+		  <section id="main_content" class="inner">
+            {{ content }}
+          </section>
+        </div>
 	  </div>
     </div>
 
