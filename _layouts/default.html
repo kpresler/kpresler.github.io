@@ -35,10 +35,9 @@
         </header>
     </div>
 	
-
-
-	<nav id="navbar">
-    <ul class="nav navbar-nav">
+	
+	<div class="row">
+      <div class="col-md-3"><ul class="nav navbar-nav">
         {% assign links = site.data.navigation %}
         {% for link in links %}
             {% assign class = nil %}
@@ -50,16 +49,19 @@
                 </li>
             
         {% endfor %}
-    </ul>
-    </nav>
-	
-	
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
+    </ul></div>
+      <div class="col-md-9">
+	      <!-- MAIN CONTENT -->
+          <div id="main_content_wrap" class="outer">
+            <section id="main_content" class="inner">
+              {{ content }}
+            </section>
+          </div>
+	  </div>
     </div>
+
+	
+
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
