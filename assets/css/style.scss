@@ -55,3 +55,16 @@
     color: #515151 !important;
     text-shadow: none !important;
 }
+
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    line-height: 30px;
+}
+nav a {
+    text-decoration: none;
+}
+nav li.active a {
+    color: #ffffff;
+}
