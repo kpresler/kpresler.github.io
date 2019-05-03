@@ -39,7 +39,6 @@
             {% if page.url contains link.url %}
                 {% assign class = 'active' %}
             {% endif %}
-            
                 <li class="{{ class }}">
                     <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
                 </li>
