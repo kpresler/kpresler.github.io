@@ -11,3 +11,4 @@ I am also collaboring with Dr. Sarah Heckman, Dr. Yan Shen, and Dr. Christopher 
 
 *Publications*:
 * Kai Presler-Marshall, Eric Horton, Sarah Heckman and Kathryn Stolee. "Wait Wait. No, Tell Me. Analyzing Selenium Configuration Effect on Test Flakiness". 14th IEEE/ACM International Workshop on Automation of Software Test
+* Shen, Y., Spencer, D., Presler-Marshall, K., Parnin, C., Willis, C. & Heckman, S. (2020, Apr 17 - 21) Promoting Cognitive and Social Awareness During Collaboration Using Group Regulation Guidance: An Exploratory Study [Poster Session]. AERA Annual Meeting San Francisco, CA http://tinyurl.com/vebfq9c (Conference Canceled)
