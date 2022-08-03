@@ -3,9 +3,9 @@ layout: default
 title: Contact
 ---
 
-Email: kpresle <i>at</i> ncsu <i>dot</i> edu
+Email: k.preslermarshall <i>at</i> bowdoin <i>dot</i> edu
 
-Office: 3228 Engineering Building II 
+Office: 222 Searles Hall, Maine Street, Brunswick, Maine 04011.
 
 [LinkedIn](https://www.linkedin.com/in/kai-presler-marshall-000590124/)
 
