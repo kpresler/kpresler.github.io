@@ -6,6 +6,18 @@ title: Teaching
 
 ## Teaching at Bowdoin College:
 
+### Fall 2023
+
+* CSCI 1101 (Introduction to Computer Science): A Python-based introduction to computer science.  This course covers fundamentals in computer science, including problem solving & decomposition, conditionals, loops, core data structures, object-oriented programming and recursion.
+
+* CSCI 2101 (Data Structures): An intensive, Java-based introduction to the data structures used by computer scientists.  This course teaches how to build commonly-used linear and non-linear data structures (lists, stacks, queues, maps, trees) and how to use them to solve interesting and non-trivial problems.
+
+### Spring 2023
+
+* CSCI 1101 (Introduction to Computer Science): A Python-based introduction to computer science.  This course covers fundamentals in computer science, including problem solving & decomposition, conditionals, loops, core data structures, object-oriented programming and recursion.
+
+* CSCI 2335 (Software Engineering): An overhauled version of CSCI 2335 from Fall 2022, better aligned with the liberal arts curriculum, and with many newly-created in-class workshops to support project tasks.
+
 ### Fall 2022
 
 * CSCI 1103 (Programming with Data): A Python-based accelerated introduction to computer science, teaching students about the fundamentals of computer science, and how to use computers to analyse data.
