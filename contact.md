@@ -3,9 +3,9 @@ layout: default
 title: Contact
 ---
 
-Email: k.preslermarshall <i>at</i> bowdoin <i>dot</i> edu
+Email: kai <i>at</i> cs <i>dot</i> jhu <i>dot</i> edu
 
-Office: 222 Searles Hall, Maine Street, Brunswick, Maine 04011.
+Office: 337 Malone Hall, 3400 N Charles Street, Baltimore, MD 21218.
 
 [LinkedIn](https://www.linkedin.com/in/kai-presler-marshall-000590124/)
 

@@ -5,11 +5,25 @@ title: Teaching
 
 ## Teaching at Johns Hopkins University:
 
+### Fall 2025
+
+* EN.500.113 (Gateway Computing: Python): An introduction to fundamental concepts in programming and computer science.  Topics covered include the design and implementation of algorithms using variables, control structures, arrays, functions, files, testing, debugging, and structured program design. Elements of object-oriented programming. algorithmic efficiency and data visualization are also introduced. Students deploy programming to develop working solutions that address problems in engineering, science and other areas of contemporary interest
+
+* EN.601.280 (Full-Stack Javascript): An introduction to full-stack web development using Javascript and Typescript.  Course covers fundamentals in how to build a modern, full-stack web application, and introduces students to widely-used frameworks to help with the process. 
+
+### Summer 2025
+
+* EN.500.113 (Gateway Computing: Python): An introduction to fundamental concepts in programming and computer science.  Topics covered include the design and implementation of algorithms using variables, control structures, arrays, functions, files, testing, debugging, and structured program design. Elements of object-oriented programming. algorithmic efficiency and data visualization are also introduced. Students deploy programming to develop working solutions that address problems in engineering, science and other areas of contemporary interest
+
+### Spring 2025
+
+* EN.601.226 (Data Structures): A Java-based introduction to fundamental data structures and algorithms in computer science.  This covers core data structures such as linked lists, trees, maps, and graphs, as well as useful algorithms for these data structures.  An introduction to asymptotic analysis, including best-case, worst-case, average-case, and amortised analysis is also provided. 
+
 ### Fall 2024
 
 * EN.601.220 (Intermediate Programming): A C and C++-based course which teaches students to solve non-trivial problems without the support offered by high-level languages such as Python and Java.  This covers fundamentals in procedural programming, object-oriented programming, and manual memory management.
 
-* EN.602.226 (Data Structures): A Java-based introduction to fundamental data structures and algorithms in computer science.  This covers core data structures such as linked lists, trees, maps, and graphs, as well as useful algorithms for these data structures.  An introduction to asymptotic analysis, including best-case, worst-case, average-case, and amortised analysis is also provided. 
+* EN.601.226 (Data Structures): A Java-based introduction to fundamental data structures and algorithms in computer science.  This covers core data structures such as linked lists, trees, maps, and graphs, as well as useful algorithms for these data structures.  An introduction to asymptotic analysis, including best-case, worst-case, average-case, and amortised analysis is also provided. 
 
 
 ## Teaching at Bowdoin College:
